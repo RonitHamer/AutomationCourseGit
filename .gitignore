@@ -4,3 +4,4 @@ bin/
 .history/
 .vscode/
 .metadata/
+.recommenders/
